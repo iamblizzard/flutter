@@ -1,6 +1,6 @@
-build/
-ios/
-windows/
-linux/
-android/
-macos/
+Udemy/**/build/
+Udemy/**/ios/
+Udemy/**/windows/
+Udemy/**/linux/
+Udemy/**/android/
+Udemy/**/macos/
